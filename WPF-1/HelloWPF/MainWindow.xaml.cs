@@ -18,6 +18,7 @@ namespace HelloWPF
     /// <summary>
     /// MainWindow.xaml에 대한 상호 작용 논리
     /// </summary>
+    /// git test
     public partial class MainWindow : Window
     {
         public MainWindow()
