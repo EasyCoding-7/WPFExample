@@ -1,0 +1,4 @@
+D:\git\WPFExample\WPF-1\HelloWPF\obj\Debug\MainWindow.g.cs
+D:\git\WPFExample\WPF-1\HelloWPF\obj\Debug\App.g.cs
+D:\git\WPFExample\WPF-1\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+D:\git\WPFExample\WPF-1\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
